@@ -145,7 +145,7 @@ Também há um vídeo mostrando o funcionamento do app:
 
 ## 📚 Créditos
 
-Projeto acadêmico desenvolvido para a disciplina **Desenvolvimento para Android 1 – D1DAD1**, ministrada pelo professor **Pedro Northon Nobile (IFSP)**. 
+Projeto acadêmico desenvolvido para a disciplina **Desenvolvimento para Android 1 – D1DA1**, ministrada pelo professor **Pedro Northon Nobile (IFSP)**. 
 
 ---
 
