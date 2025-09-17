@@ -1,6 +1,6 @@
 # 📱 Intents App
 
-Um aplicativo Android desenvolvido em **Kotlin** com o objetivo de **demonstrar e praticar o uso de Intents** — tanto explícitas quanto implícitas — para navegação entre Activities e interação com outros aplicativos do sistema.  
+Um aplicativo Android desenvolvido em **Kotlin** com o objetivo de **demonstrar e praticar o uso de Intents**, tanto explícitas quanto implícitas, para navegação entre Activities e interação com outros aplicativos do sistema.  
 Este projeto foi criado para fins acadêmicos no contexto da disciplina de **Desenvolvimento de Aplicações Móveis**.
 
 ---
@@ -71,47 +71,47 @@ Demonstra a segunda Activity recebendo parâmetros via Intent explícita.
 
 ### 01 - Intent Explícita
 Tela inicial com exemplo de navegação usando Intent explícita.  
-![Intent Explícita](./screenshots/01-explicits-intents.png)
+![Intent Explícita](screenshots/01-explicits%20intents.png)
 
 ### 02 - Intent Explícita (Abrir Activity)
 Mostra a abertura de uma nova Activity passando dados.  
-![Intent Explícita Open](./screenshots/02-explicits-intents-(open).png)
+![Intent Explícita Open](screenshots/02-explicits%20intents%20(open).png)
 
 ### 03 - Intent Implícita (Menu)
 Exibe as opções de ações disponíveis no menu para testar Intents implícitas.  
-![Intent Implícita Menu](./screenshots/03-implicit-intents-(menu).png)
+![Intent Implícita Menu](screenshots/03-implicit%20intents%20(menu).png)
 
 ### 04 - Intent Implícita (Abrir Navegador)
 O usuário insere uma URL e o app abre o navegador padrão.  
-![Abrir Navegador](./screenshots/04-implicit-intents-(browser).png)
+![Abrir Navegador](screenshots/04-implicit%20intents%20(browser).png)
 
 ### 05 - Intent Implícita (Chamada Telefônica)
 Permite inserir um número e iniciar uma chamada direta (com permissão).  
-![Chamada Telefônica](./screenshots/05-implicit-intents-(call).png)
+![Chamada Telefônica](screenshots/05-implicit%20intents%20(call).png)
 
 ### 06 - Intent Implícita (Discador)
 Abre o discador do sistema com o número já preenchido.  
-![Discador](./screenshots/06-implicit-intents-(dialer).png)
+![Discador](screenshots/06-implicit%20intents%20(dialer).png)
 
 ### 07 - Intent Implícita (Chooser / Multi-apps)
 Mostra o `Chooser`, permitindo selecionar qual app abrirá a ação.  
-![Chooser](./screenshots/07-implicit-intents-(multi).png)
+![Chooser](screenshots/07-implicit%20intents%20(multi).png)
 
 ### 08 - Emulando via Celular
 Demonstra o uso do app em um dispositivo emulado.  
-![Emulador](./screenshots/08-Emulando-via-celular.png)
+![Emulador](screenshots/08%20Emulando%20via%20celular.png)
 
 ### 09 - Navegação Entre Telas
 Fluxo entre diferentes Activities (1 → 2).  
-![Navegação](./screenshots/09-screen-1-2.png)
+![Navegação](screenshots/09%20screen%201-2.png)
 
 ### 10 - Navegação Entre Múltiplas Telas
 Exemplo de interação com as telas 3, 4 e 9 no fluxo de uso.  
-![Multitelas](./screenshots/10-screen-3-4.png)
+![Multitelas](screenshots/10%20screen%203-4.png)
 
 ### 11 - Navegação Avançada
 Exibe as telas 5, 6 e 7 do fluxo de navegação.  
-![Avançado](./screenshots/11-screen-5-6-7.png)
+![Avançado](screenshots/11%20screen%205-6-7.png)
 
 ---
 ## ⚠️ Observações Importantes
