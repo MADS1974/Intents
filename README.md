@@ -62,13 +62,12 @@ Intents/
 ├── settings.gradle
 └── gradle/
 
----
-
+   ```
 ## 📸 Demonstração do App
 
 ### 00 - Parameter Activity
 Demonstra a segunda Activity recebendo parâmetros via Intent explícita.  
-![ParameterActivity](./screenshots/00-parameter.png)
+![ParameterActivity](screenshots/00-parameter.png)
 
 ### 01 - Intent Explícita
 Tela inicial com exemplo de navegação usando Intent explícita.  
@@ -131,7 +130,6 @@ O campo de texto principal (parameterTv) é usado como entrada para as ações (
    ```bash
    git clone https://github.com/MADS1974/Intents
    ```
-
 2. Abra no **Android Studio**.  
 
 3. Execute no emulador ou dispositivo físico.  
